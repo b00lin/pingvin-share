@@ -17,12 +17,12 @@ export default {
   "home.title": "PIPERHOOK Files",
 
   "home.description":
-    "Do you really want to give your personal files in the hand of third parties like WeTransfer?",
+    "Do you really want to give your personal files to third parties like GanjaHook?",
   "home.bullet.a.name": "Reliable",
   "home.bullet.a.description": "It's reliable innit",
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description":
-    "Your files are your files and should never get into the hands of third parties.",
+    "Your files are yours and should never get into the hands of third parties.",
   "home.bullet.c.name": "No annoying file size limit",
   "home.bullet.c.description":
     "Upload files as large you want, but don't take the piss.",
