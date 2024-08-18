@@ -14,21 +14,21 @@ export default {
   // END navbar
 
   // /
-  "home.title": "A <h>self-hosted</h> file sharing platform.",
+  "home.title": "PIPERHOOK Files",
 
   "home.description":
     "Do you really want to give your personal files in the hand of third parties like WeTransfer?",
-  "home.bullet.a.name": "Self-Hosted",
-  "home.bullet.a.description": "Host Pingvin Share on your own machine.",
+  "home.bullet.a.name": "Reliable",
+  "home.bullet.a.description": "It's reliable innit",
   "home.bullet.b.name": "Privacy",
   "home.bullet.b.description":
     "Your files are your files and should never get into the hands of third parties.",
   "home.bullet.c.name": "No annoying file size limit",
   "home.bullet.c.description":
-    "Upload as big files as you want. Only your hard drive will be your limit.",
+    "Upload files as large you want, but don't take the piss.",
 
   "home.button.start": "Get started",
-  "home.button.source": "Source code",
+  "home.button.source": "Return to PIPERHOOK",
   // END /
 
   // /auth/signin
