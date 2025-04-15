@@ -166,7 +166,7 @@ export default function Home() {
               </Button>
               <Button
                 component={Link}
-                href="https://github.com/stonith404/pingvin-share"
+                href="https://piperhook.xyz"
                 target="_blank"
                 variant="default"
                 radius="xl"
